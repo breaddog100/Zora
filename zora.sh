@@ -101,7 +101,7 @@ function uninstall_node(){
 function main_menu() {
 	while true; do
 	    clear
-	    echo "===================Zora 一机多开 一键部署脚本==================="
+	    echo "===================Zora 一键部署脚本==================="
 		echo "沟通电报群：https://t.me/lumaogogogo"
 		echo "官方推荐：8C16G200G；测试推荐：2C4G200G"
 	    echo "请选择要执行的操作:"
