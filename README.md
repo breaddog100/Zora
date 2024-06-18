@@ -1,0 +1,1 @@
+wget -O zora.sh https://raw.githubusercontent.com/breaddog100/Zora/main/zora.sh && chmod +x zora.sh && ./zora.sh
